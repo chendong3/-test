@@ -1,0 +1,10 @@
+{  
+    "java.configuration.maven.terminal.customEnv": [  
+        {  
+            "environmentVariable": "JAVA_HOME",  
+            "value": "D:\\Program Files\\Java\\java-se-8u41-ri"  // 这里替换为你想要使用的JDK路径  
+        }  
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.format.settings.url": ".vscode/java-formatter.xml"
+}
